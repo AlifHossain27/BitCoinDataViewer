@@ -23,7 +23,7 @@ $ cd BitCoinDataViewer
 <p> <b>Install dependencies :<b/> <p/>
   
 ```
-$ pip install requirements.txt
+$ pip install -r requirements.txt
 ```
 
 <p/> <b>Run the app :<b/> <p/>
